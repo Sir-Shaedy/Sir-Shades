@@ -19,7 +19,7 @@
 
 **<h3 align="left">In technical terms:</h3>**
 
-- ⚙️ I am currently pursuing my <font color="red">Master of Science (M.Sc)</font> degree in Systems Engineering
+- ⚙️ I am currently pursuing my Master of Science (M.Sc) degree in Systems Engineering
 - 🌱 I'm currently learning: Vyper, Python, Solidity
 - 💬 Ask me about: Vyper, Python, Moccasin or Titanoboa, Cryptography, Blockchain, Web3
 - 💼 Work & Company: None for now but i am trying to find the right place by building, learning and networking!
@@ -27,11 +27,28 @@
 ---
 **<h3 align="left"> 😃 So what skills do i possess?</h3>**
 
-**<h4 align="left"> 💻 Languages</h4>**
+**<h4 align="left">💻 Languages</h4>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/🐍Vyper-8A2BE2" height="32" alt="Vyper" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="32" alt="Solidity" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/SysML-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px">
+</div>
+
+
+**<h4 align="left">🧰 Frameworks</h4>**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/🐍Moccasin-8A2BE2" height="32" alt="Vyper" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/🐍Titanoboa-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px"> 
+  4px">
+</div>
+
+
+**<h4 align="left">🖥️ Operating Systems</h4>**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32" alt="Ubuntu" style="margin-right: 4px">
+  *(Windows but not really for dev...)*
 </div>
