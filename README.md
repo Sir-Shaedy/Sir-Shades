@@ -25,15 +25,13 @@
 - 💼 Work & Company: None for now but i am trying to find the right place by building, learning and networking!
 
 ---
-**<h3 align="left"> 😃 So what skills do i have?</h3>**
+**<h3 align="left"> 😃 So what skills do i possess?</h3>**
 
 **<h4 align="left"> 💻 Languages</h4>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/🐍Vyper-8A2BE2" height="32" alt="Vyper" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> 
-  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="32" alt="Solidity" style="margin-right: 4px">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" height="32" alt="Solidity" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32" alt="CSS3" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32" alt="HTML5" style="margin-right: 4px">
 </div>
