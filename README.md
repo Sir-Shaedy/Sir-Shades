@@ -49,6 +49,19 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32" alt="Ubuntu" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Windows?style=plastic&logoColor=green" height="32" alt="Linux" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/🪟Windows-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px">
+</div>
+
+
+**<h4 align="left">♻️ Versioning</h4>**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub" style="margin-right: 4px">
+</div>
+
+
+**<h4 align="left">🎩 Blockain platform</h4>**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=black" height="32" alt="Ethereum" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" height="32" alt="Chainlink" style="margin-right: 4px">
 </div>
