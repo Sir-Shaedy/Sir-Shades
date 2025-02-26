@@ -1,5 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Sir-Shades&label=Profile%20views&color=blue&style=for-the-badge)
-![Profile](https://imgur.com/a/46CQvWZ)
+![Profile](https://Sir-Shades/shubham-dhag.jpg)
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
