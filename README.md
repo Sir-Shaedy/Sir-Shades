@@ -13,7 +13,7 @@
 
 
 <h3 align="left" font="sf">
-   I am a **Systems Engineer** ⚙️ who works and studies every day to become a **smart contract developer** and a **security analyst.** I hope to contribute to open-source projects, and perhaps in the foreseeable future, win a hackathon.
+   I am a <b></b>Systems Engineer<b/> ⚙️ who works and studies every day to become a **smart contract developer** and a **security analyst.** I hope to contribute to open-source projects, and perhaps in the foreseeable future, win a hackathon.
  </h3>
 
 
