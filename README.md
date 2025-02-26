@@ -13,5 +13,15 @@
 
 
 <h3 align="left" font="sf">
-   I am a Systems Engineer who works and studies every day to become a smart contract developer and a security analyst. I hope to contribute to open-source projects, and perhaps in the foreseeable future, win a hackathon.
+   I am a **Systems Engineer** ⚙️ who works and studies every day to become a **smart contract developer** and a **security analyst.** I hope to contribute to open-source projects, and perhaps in the foreseeable future, win a hackathon.
  </h3>
+
+
+**<h3 align="left">In technical terms:</h3>**
+
+- ⚙️ I am currently pursuing my **Master of Science (M.Sc)** degree in **Systems Engineering**
+- 🌱 I'm currently learning: **Vyper, Python, Solidity**
+- 💬 Ask me about: **Vyper, Python, Moccasin or Titanoboa, Cryptography, Blockchain, Web3**
+- 💼 Work & Company: None but like my friend <a href="[https://github.com/s3bc40" target="_blank"><img src="https://img.shields.io/badge/my%20friend%20s3bc40-8A2BE2" height="28" style="margin-right: 4px"></a>, trying to find the right place by building, learning and networking!
+
+---
