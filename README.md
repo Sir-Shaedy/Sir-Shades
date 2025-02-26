@@ -75,9 +75,19 @@
 
 ---
 
-**<h3 align="left">🥇 GitHub Stats</h3>**
+**<h3 align="left">📊 GitHub Stats</h3>**
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sir-Shaedy&theme=aura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sir-Shaedy&theme=aura&hide_title=false&layout=compact&langs_count=12&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
+---
+**<h3 align="left">🥇 Cyfrin Updraft</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://github.com/user-attachments/assets/299d4df6-a321-4e92-aaa3-7a436e691e44" alt="blockchain-basics-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b69ec8a0-930c-4fe0-a4de-2915bb9c6211" alt="solidity-completed" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a741bb3e-e43a-4dff-948c-0cd01ab5411b" alt="intro-python-vyper" width="250"/>
+  <img src="https://github.com/user-attachments/assets/eca8245e-93db-4ad7-ba5a-40b64679ff78" alt="intermediate-python-vyper-smart-contract-development-completed" width="250"/>
+</div>
