@@ -42,7 +42,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/🐍Moccasin-8A2BE2" height="32" alt="Vyper" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/🐍Titanoboa-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px"> 
-  4px">
 </div>
 
 
@@ -50,5 +49,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32" alt="Ubuntu" style="margin-right: 4px">
-  *(Windows but not really for dev...)*
+  <img src="https://img.shields.io/badge/Windows?style=plastic&logo=windows&logoColor=green" height="32" alt="Linux" style="margin-right: 4px">
+)
 </div>
