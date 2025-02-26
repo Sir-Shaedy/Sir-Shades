@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=Sir-Shades&label=Profile%20views&color=blue&style=for-the-badge)
+
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -25,7 +27,7 @@
 - 💼 Work & Company: None for now but i am trying to find the right place by building, learning and networking!
 
 ---
-**<h3 align="left"> 😃 So what skills do i possess?</h3>**
+**<h3 align="left"> 😃 My Skills:</h3>**
 
 **<h4 align="left">💻 Languages</h4>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
