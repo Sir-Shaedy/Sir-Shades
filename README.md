@@ -2,9 +2,11 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hiii, 💻 <b/> 
-        Welcome to my GH space !
+        Welcome to Sir Shades Profile ❗
       </h1>
     </summary>
   </ul>
 </div>
+
+**<h3 align="left">Wanna connect? 🤙:</h3>** 
+<p align="left"><a href="mailto:musaayomide0.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=green" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sir-Shaedy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/0xShaedyW" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=green" height="28" style="margin-right: 4px"></a><a href="https://www.linkedin.com/in/musa-ayomide-idr/" target="_blank"></p>
