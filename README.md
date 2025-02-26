@@ -44,11 +44,13 @@
   <img src="https://img.shields.io/badge/🐍Titanoboa-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px"> 
 </div>
 
-
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 30 30">
+<path d="M12 16L3 16 3 23.75 12 24.988zM12 5L3 6.25 3 14 12 14zM14 4.75L14 14 27 14 27 3zM14 16L14 25.25 27 27 27 16z"></path>
+</svg>
 **<h4 align="left">🖥️ Operating Systems</h4>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="32" alt="Ubuntu" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Windows?style=plastic&logoColor=green" height="32" alt="Linux" style="margin-right: 4px">
-)
+  <img src="https://img.shields.io/badge/🐍Titanoboa-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px">
 </div>
