@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Welcome to Sir Shades Profile ❗
+        Welcome to my Profile ❗
       </h1>
     </summary>
   </ul>
