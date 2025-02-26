@@ -9,7 +9,7 @@
 </div>
 
 **<h3 align="left">Wanna connect? 🤙:</h3>** 
-<p align="left"><a href="mailto:musaayomide0.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=green" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sir-Shaedy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/0xShaedyW" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=green" height="28" style="margin-right: 4px"></a><a href="https://www.linkedin.com/in/musa-ayomide-idr/" target="_blank"></p>
+<p align="left"><a href="mailto:musaayomide0.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=green" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Sir-Shaedy" target="_blank"><img src="https://img.shields.io/badge/GitHub-3C3C3D?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/0xShaedyW" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=green" height="28" style="margin-right: 4px"></a><a href="https://www.linkedin.com/in/musa-ayomide-idr/" target="_blank"></p>
 
 
 <h3 align="left" font="sf">
@@ -40,7 +40,7 @@
 
 **<h4 align="left">🧰 Frameworks</h4>**
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/🐍Moccasin-100000" height="32" alt="Vyper" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/🐍Moccasin-3C3C3D" height="32" alt="Vyper" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/🐍Titanoboa-AEDDFF" height="32" alt="Vyper" style="margin-right: 4px"> 
 </div>
 
@@ -65,3 +65,19 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=black" height="32" alt="Ethereum" style="margin-right: 4px">
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" height="32" alt="Chainlink" style="margin-right: 4px">
 </div>
+
+
+**<h4 align="left">🟢 Others</h4>**
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px">
+</div>
+
+---
+
+**<h3 align="left">🥇 GitHub Stats</h3>**
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sir-Shaedy&theme=aura&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sir-Shaedy&theme=aura&hide_title=false&layout=compact&langs_count=12&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
